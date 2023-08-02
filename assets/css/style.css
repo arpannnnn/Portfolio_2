@@ -996,8 +996,8 @@ form {
 
 .rounded-circle {
   position: relative;
-  height: 600px;
-    width: 600px;
+  height: 400px;
+    width: 400px;
     object-fit:cover;
     border-radius:100px;
     border-top-left-radius: 100px;
