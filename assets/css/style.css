@@ -994,7 +994,7 @@ form {
 
 /* box shadow for profile picture */
 
-.profile {
+.rounded-circle {
   position: relative;
   height: 600px;
     width: 600px;
