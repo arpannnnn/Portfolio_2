@@ -994,21 +994,18 @@ form {
 
 /* box shadow for profile picture */
 
-.rounded-circle {
+.profile {
   position: relative;
-  height: 400px;
-    width: 400px;
+  height: 600px;
+    width: 600px;
     object-fit:cover;
-    border-radius: 100px;
+    border-radius:100px;
     border-top-left-radius: 100px;
     border-top-right-radius: 100px;
     border-bottom-right-radius: 100px;
     border-bottom-left-radius: 100px;
   
-  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
-  -webkit-box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
-  -khtml-box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
+  
 }
 /*
 ----------------------------

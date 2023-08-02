@@ -70,6 +70,7 @@ body{
 
 .animated-text span {
   display: none;
+  font-weight: bold;
   line-height: 1;
 }
 
